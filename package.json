@@ -1,0 +1,23 @@
+{
+  "name": "mqproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MQClient.js",
+  "dependencies": {
+    "mqlight": "^1.0.2016022416"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nawfalCode/qmlight.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nawfalCode/qmlight/issues"
+  },
+  "homepage": "https://github.com/nawfalCode/qmlight#readme"
+}
